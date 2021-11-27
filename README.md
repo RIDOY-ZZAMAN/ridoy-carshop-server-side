@@ -11,7 +11,6 @@ live site link: https://assignment12-1ebce.web.app/
 * HeroKu is used for store the server side data.
 * Firebase Google and Email-Password Sing In Sytem Implemented.
 * MUI was used to design the whole website.
-* Mainly a Car Sale Website.
 # Future Work
 * JWT token and payment system will be added very soon.
 
